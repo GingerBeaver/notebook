@@ -1,3 +1,3 @@
 # Notebook
 
-!(https://img.etsystatic.com/il/f8f33e/891403756/il_570xN.891403756_7rho.jpg)
+!(https://images-na.ssl-images-amazon.com/images/I/919qy-i5lqL._SY355_.jpg)
