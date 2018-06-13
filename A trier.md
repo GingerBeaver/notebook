@@ -17,3 +17,5 @@ https://youtu.be/GU7DbfmBjxE
 https://youtu.be/ceMLuRBn--M
 
 http://www.bubblecode.net/fr/2016/01/22/comprendre-oauth2/
+
+[git - the simple guide](https://rogerdudler.github.io/git-guide/)
