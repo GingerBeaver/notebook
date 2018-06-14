@@ -9,3 +9,5 @@ https://github.com/trending
 https://news.ycombinator.com/
 
 https://github.com/RichardLitt/meta-knowledge
+
+https://github.com/sindresorhus/awesome
