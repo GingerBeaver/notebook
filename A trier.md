@@ -1,4 +1,10 @@
-https://korben.info/11-lignes-de-codes-disparaissent-centaines-de-projets-open-source-mis-a-mal.html
+## One programmer almost broke the internet by deleting 11 lines of code
+
+[US](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/)  
+[FR](https://korben.info/11-lignes-de-codes-disparaissent-centaines-de-projets-open-source-mis-a-mal.html)
+
+[Azer Koçulu](http://azer.bike/journal/i-ve-just-liberated-my-modules/)  
+[Kik](https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d)
 
 https://www.developpez.com/actu/140439/Combien-y-a-t-il-de-professionnels-dans-la-population-mondiale-de-developpeurs-Et-quelles-sont-les-caracteristiques-des-developpeurs/
 
