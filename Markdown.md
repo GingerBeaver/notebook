@@ -1,7 +1,14 @@
 # Markdown
 *Markdown is an easy-to-read, easy-to-write syntax for formatting plain text*
 
+## Links
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+
+[Other Cheatsheet](https://beegit.com/markdown-cheat-sheet)
+
+[Github Markdown pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+[Emoji Cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ## GitHub Help
 - **Getting started with writing and formatting on GitHub**
