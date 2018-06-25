@@ -56,3 +56,6 @@ a[target="_blank"]
 ```
 <a href="" target="_blank"></a>
 ```
+<input type=""/>
+Si pas de type, le type par défaut est text
+Autre type : radio - checkbox - email - password - color - url - tel - number - range - time - date - datetime-local - month - week
