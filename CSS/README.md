@@ -5,3 +5,7 @@
 https://github.com/d2s/knowledge/tree/master/css
 
 [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+body > * {} impacte les enfants mais pas la descendance
+
+:root {} niveau max, au dessus de html
