@@ -42,3 +42,17 @@ a
 ```
 <a href=""></a>
 ```
+h2{lorem5}+p>lorem20
+```
+<h2>lorem5</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dolorem doloribus ea earum fugiat id quia.
+    Cumque dolore sequi ullam!</p>
+```
+h1#toto
+```
+<h1 id="toto"></h1>
+```
+a[target="_blank"]
+```
+<a href="" target="_blank"></a>
+```
