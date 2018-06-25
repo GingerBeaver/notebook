@@ -62,5 +62,10 @@ Autre type : radio - checkbox - email - password - color - url - tel - number - 
 
 ### BLOCK
 ```
+<header></header>
 <main></main>
+<footer></footer>
+<article>
+    <section></section>
+</article>
 ```
