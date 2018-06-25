@@ -56,9 +56,14 @@ a[target="_blank"]
 ```
 <a href="" target="_blank"></a>
 ```
+CTRL + ALT + L : formate le code
+
 ## Balises
 Balise input : Si pas de type, le type par défaut est text
 Autre type : radio - checkbox - email - password - color - url - tel - number - range - time - date - datetime-local - month - week
+
+### Résolution 
+72dpi = 1pt = 1px
 
 ### BLOCK
 ```
@@ -68,4 +73,42 @@ Autre type : radio - checkbox - email - password - color - url - tel - number - 
 <article>
     <section></section>
 </article>
+<nav></nav>
+<aside></aside>
+<h1></h1>
+<p></p>
+<ul>
+    <li></li>
+</ul>
+<ol>
+    <li></li>
+</ol>
+<blockquote></blockquote>
+<div></div>
+<hr/>
+<br/>
+<figure>
+    <figcaption></figcaption>
+</figure>
+```
+### INLINE
+```
+<a></a>
+<b></b>
+<strong></strong> donne de l'importance dans le référence
+<i></i>
+<em></em> emphase > i
+<mark></mark> surligné
+<span></span>
+<q></q> citation courte
+```
+### INLINE-BLOCK
+```
+<img></img>
+<audio></audio>
+<video></video>
+<input>
+<textarea></textarea>
+<select></select>
+<button></button>
 ```
