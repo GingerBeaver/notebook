@@ -59,3 +59,6 @@ a[target="_blank"]
 
 Balise input : Si pas de type, le type par défaut est text
 Autre type : radio - checkbox - email - password - color - url - tel - number - range - time - date - datetime-local - month - week
+
+<!-- BLOCK -->
+<main></main>
