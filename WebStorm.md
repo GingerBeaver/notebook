@@ -58,6 +58,22 @@ a[target="_blank"]
 ```
 CTRL + ALT + L : formate le code
 
+div{block $}*3
+```
+<div>bloc 1</div>
+<div>bloc 2</div>
+<div>bloc 3</div>
+```
+la position d'un élément en css est toujours par rapport à la gauche. au lieu de chercher dans un code existant ou se trouve le positionnement de l'élément, il faut ajouter un top:auto / left:auto afin de reset la position. Ensuite on peut utiliser les éléments right sans probléme.
+
+z-index -> change couche du bloc
+
+### position
+absolute : par rapport au parent non static le plus proche
+fixed : par rapport à la fenêtre
+relative : par rapport au parent
+static : type de base
+
 ## Balises
 Balise input : Si pas de type, le type par défaut est text
 Autre type : radio - checkbox - email - password - color - url - tel - number - range - time - date - datetime-local - month - week
