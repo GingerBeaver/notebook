@@ -11,3 +11,6 @@ Basic terminal usage
 https://learncodethehardway.org/unix/bash_cheat_sheet.pdf
 https://www.git-tower.com/blog/command-line-cheat-sheet/
 https://github.com/juanfrans/GSAPP-AP/wiki/Basic-Terminal-Commands
+
+Data structures & algorithms
+https://www.developpez.net/forums/d1696881/general-developpement/algorithme-mathematiques/algorithmes-structures-donnees/mise-jour-page-cours-algorithmique-35-nouvelles-publications/
