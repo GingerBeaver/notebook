@@ -1,4 +1,5 @@
 Developer Roadmap : https://github.com/kamranahmedse/developer-roadmap
+Awesome ressources : https://github.com/charlax/professional-programming
 
 Basic
 
