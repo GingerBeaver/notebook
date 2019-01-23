@@ -3,11 +3,13 @@ https://github.com/kamranahmedse/developer-roadmap
 # Awesome resources 
 https://github.com/charlax/professional-programming
 
-Basic
+# Basic
 
-Git
+## Git
 http://rogerdudler.github.io/git-guide/index.fr.html
+
 https://book.git-scm.com/doc
+
 https://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
 
 Basic terminal usage
