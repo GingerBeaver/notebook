@@ -1,5 +1,7 @@
-Developer Roadmap : https://github.com/kamranahmedse/developer-roadmap
-Awesome ressources : https://github.com/charlax/professional-programming
+# Developer Roadmap 
+https://github.com/kamranahmedse/developer-roadmap
+# Awesome resources 
+https://github.com/charlax/professional-programming
 
 Basic
 
