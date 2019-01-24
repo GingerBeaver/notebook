@@ -22,4 +22,4 @@ https://github.com/juanfrans/GSAPP-AP/wiki/Basic-Terminal-Commands
 ## Data structures & algorithms
 https://www.developpez.net/forums/d1696881/general-developpement/algorithme-mathematiques/algorithmes-structures-donnees/mise-jour-page-cours-algorithmique-35-nouvelles-publications/
 
-Find math formula : [The On-Line Encyclopedia of Integer Sequences]http://oeis.org/
+Find math formula : [The On-Line Encyclopedia of Integer Sequences](http://oeis.org/)
